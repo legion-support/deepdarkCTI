@@ -1,6 +1,5 @@
 |Link| Category|
 | ------ | ------ |
-|https://t.me/Allhak_mv (DELETED)| Data Leaks
 |https://t.me/altenens|
 |https://t.me/AntiPlumbers|
 |https://t.me/arvin_club|
@@ -44,7 +43,7 @@
 |https://t.me/datamuseum (DELETED)| Data Leaks
 |https://t.me/dbforall|
 |https://t.me/DBleak| Data Leaks
-|https://t.me/DB_MARKEET|
+|https://t.me/DB_MARKEET (DELETED)|
 |https://t.me/deepdatamarket (DELETED)| Data Leaks
 |https://t.me/DWI_OFFICIAL|
 |https://t.me/exploit_db_com| Exploits
